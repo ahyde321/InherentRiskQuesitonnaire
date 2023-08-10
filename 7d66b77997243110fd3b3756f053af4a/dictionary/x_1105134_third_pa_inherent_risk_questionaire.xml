@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="7fa7ffb997243110fd3b3756f053aff7" label="Inherent Risk Questionaire" max_length="40" name="x_1105134_third_pa_inherent_risk_questionaire" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Do data center perimeter controls involve the use of access cards?" mandatory="true" max_length="40" name="access_cards" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="access_cards_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Is administrator-level access limited on network infrastructure?" mandatory="true" max_length="40" name="admin_access_limited" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="admin_access_limited_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Does your organization allow the installation of non-approved software on networ" mandatory="true" max_length="40" name="allow_nonapproved_software" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="allow_nonapproved_software_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Does anti-virus software have an established frequency of scanning on network co" mandatory="true" max_length="40" name="antivirus_freq_scanning" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="antivirus_freq_scanning_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Is anti-virus software required and enabled on all network computers?" mandatory="true" max_length="40" name="antivirus_required" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="antivirus_required_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" label="Signature" mandatory="true" max_length="40" name="assessor_signature" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Are backups stored and tested?" mandatory="true" max_length="40" name="backups_stored_tested" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="backups_stored_tested_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Do you have business continuity procedures in place if the office is inaccessibl" mandatory="true" max_length="40" name="business_continuity" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="business_continuity_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Does your organization document and enforce policies for authorized use of compa" mandatory="true" max_length="40" name="company_services_policies" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="company_services_policies_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" label="Contact Information" mandatory="true" max_length="256" name="contact_information" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Do policies and procedures adhere to and comply with privacy laws and regulation" mandatory="true" max_length="40" name="customer_data_comply" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="customer_data_comply_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Does your organization use data center providers?" mandatory="true" max_length="40" name="data_center_providers" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="data_center_providers_notes" type="journal"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Data Types" mandatory="true" max_length="1024" name="data_types" reference="x_1105134_third_pa_inherent_risk_quesitonaire_data_types" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" label="Date" mandatory="true" max_length="40" name="date" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Are all emails scanned for viruses?" mandatory="true" max_length="40" name="emails_scanned" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="emails_scanned_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Are employee devices encrypted?" mandatory="true" max_length="40" name="employee_devices_encrypted" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="employee_devices_encrypted_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Do you employ intrusion detection systems?" mandatory="true" max_length="40" name="employ_intrusion_detection_systems" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="employ_intrusion_detection_systems_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Does your organization document and enforce encryption policies and standards?" mandatory="true" max_length="40" name="encryption_policies" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="encryption_policies_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Does your organization document and enforce HR policies?" mandatory="true" max_length="40" name="hr_policies" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="hr_policies_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="If your organization has an information security program, does it apply to all o" mandatory="true" max_length="40" name="info_security_apply_all_operations" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="info_security_apply_all_operations_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Do data center perimeter controls involve the use of keypad controls?" mandatory="true" max_length="40" name="keypad_controls" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="keypad_controls_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" label="Additional Information" max_length="4000" name="large_text_field" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Does your organization document and enforce policies for authorized use of netwo" mandatory="true" max_length="40" name="networked_services_policies" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="networked_services_policies_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Is all network equipment physically secured?" mandatory="true" max_length="40" name="network_eq_phy_secured" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="network_eq_phy_secured_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="40" name="non_compliance_documented" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Does your organization back up your data?" mandatory="true" max_length="40" name="organization_back_up_data" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="organization_back_up_data_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Does your organization maintain a network security policy?" mandatory="true" max_length="40" name="organization_security_policy" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="organization_security_policy_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Does your organization have an information security program in place? (please pr" mandatory="true" max_length="40" name="organization_security_program" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="organization_security_program_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Are the penalties associated with non compliance to your organization's policies" mandatory="true" max_length="40" name="penalties_documented" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="penalties_documented_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" label="Point Of Contact" mandatory="true" max_length="128" name="point_of_contact" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Does your organization maintain a written policy regarding physical security req" mandatory="true" max_length="40" name="policy_phy_req_office" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="policy_phy_req_office_notes" type="journal"/>
+        <element label="Radio button choice" max_length="40" name="radio_button_choice" type="radio"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Does your organization regularly review and assess physical- and environmental-r" mandatory="true" max_length="40" name="review_phy_and_env_risks" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="review_phy_and_env_risks_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" label="Risk Assessor Name and Title" mandatory="true" max_length="40" name="risk_assessor_name_title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Are all routers systematized with access control lists to stifle unauthorized tr" mandatory="true" max_length="40" name="routes_acl_unauthorized_traffic" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="routes_acl_unauthorized_traffic_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Do data center perimeter controls involve the use of security guards?" mandatory="true" max_length="40" name="security_guards" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="security_guards_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Does your organization outsource functionalities related to security management?" mandatory="true" max_length="40" name="security_management_outsourced" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="security_management_outsourced_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Does your organization document, publish, and enforce security policies?" mandatory="true" max_length="40" name="security_policies" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="y" label="Does your organization document, publish, and enforce security policies?" mandatory="true" max_length="40" name="security_policies_choice" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="security_policies_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" default="Does your organization document, publish, and enforce security policies?" label="Security policies prompt" max_length="40" name="security_policies_prompt" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Does your organization document and enforce policies regarding the storage, use," mandatory="true" max_length="40" name="sensitive_data_policies" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="sensitive_data_policies_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Are server operating systems patched at the latest level?" mandatory="true" max_length="40" name="server_system_patched_latest" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="server_system_patched_latest_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Are relevant staff and managers professionally certified in information security" mandatory="true" max_length="40" name="staff_certified_info_security" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="staff_certified_info_security_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Are strict controls in place in order to access security logs?" mandatory="true" max_length="40" name="strict_controls_security_logs" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="strict_controls_security_logs_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" default="na" label="Testing XML Errorllllllllllllllllllllllllllllllwertyhujkmngfdsdrtyhjnbgfdsertg" max_length="40" name="testing_xml_error" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Does your organization document and enforce policies regarding the storage, use," mandatory="true" max_length="255" name="test_utf8" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Does your organization document and enforce policies regarding the storage, use," mandatory="true" max_length="40" name="third_party_sensitive_data_policy" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="third_party_sensitive_data_policy_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Is a third-party used to test network infrastructure security?" mandatory="true" max_length="40" name="third_party_test_network_security" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="third_party_test_network_security_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Does your organization have a process in place to track and communicate vulnerab" mandatory="true" max_length="40" name="track_communicate_vuln_patches" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="track_communicate_vuln_patches_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" label="New Journal" max_length="4000" name="u_journal_17" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" label="New Journal" max_length="4000" name="u_journal_18" type="journal"/>
+        <element label="Does your organization document and enforce policies for authorized use of netwo" max_length="40" name="u_radio_7" type="radio"/>
+        <element attributes="edge_encryption_enabled=true" label="Vendor Address" mandatory="true" max_length="256" name="vendor_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Vendor Name" mandatory="true" max_length="128" name="vendor_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Does your organization utilize visitor logs?" mandatory="true" max_length="40" name="visitor_logs" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="If Y, are they maintained for more than 30 days?" mandatory="true" max_length="40" name="visitor_logs_30_days" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
+                <element inactive_on_update="false" label="N" sequence="1" value="n"/>
+                <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="visitor_logs_30_days_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="visitor_logs_notes" type="journal"/>
+    </element>
+</database>

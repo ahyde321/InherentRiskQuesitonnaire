@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices/>
+        <description>If true, portal css would be in rem units</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>glide.service_portal.resize_text.procurement.enable_rem_conversion</name>
+        <read_roles/>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-10 10:28:42</sys_created_on>
+        <sys_id>1e87088a97643110fd3b3756f053af27</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.service_portal.resize_text.procurement.enable_rem_conversion</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_update_name>sys_properties_1e87088a97643110fd3b3756f053af27</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-10 10:28:42</sys_updated_on>
+        <type>boolean</type>
+        <value>true</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=1e87088a97643110fd3b3756f053af27"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</application>
+        <file_path/>
+        <instance_id>278f33dedb4615d82f68c59705961964</instance_id>
+        <instance_name>dev136027</instance_name>
+        <name>sys_properties_1e87088a97643110fd3b3756f053af27</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>If true, portal css would be in rem units</description><ignore_cache>true</ignore_cache><is_private>false</is_private><name>glide.service_portal.resize_text.procurement.enable_rem_conversion</name><read_roles/><suffix/><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-10 10:28:42</sys_created_on><sys_id>1e87088a97643110fd3b3756f053af27</sys_id><sys_mod_count>0</sys_mod_count><sys_name>glide.service_portal.resize_text.procurement.enable_rem_conversion</sys_name><sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package><sys_policy/><sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope><sys_update_name>sys_properties_1e87088a97643110fd3b3756f053af27</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-10 10:28:42</sys_updated_on><type>boolean</type><value>true</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=1e87088a97643110fd3b3756f053af27"/></record_update>]]></payload>
+        <payload_hash>781979942</payload_hash>
+        <record_name>glide.service_portal.resize_text.procurement.enable_rem_conversion</record_name>
+        <reverted_from/>
+        <source>7d66b77997243110fd3b3756f053af4c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-10 10:28:42</sys_created_on>
+        <sys_id>1e87088a97643110fd3b3756f053af2a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189defdcec60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-10 10:28:42</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>5687088a52643110324c0db4618ffd2a</update_guid>
+        <update_guid_history>5687088a52643110324c0db4618ffd2a:781979942</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-10 11:08:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>0511850ee830442481b21c84a27499a4</sys_id>
+        <sys_metadata>1e87088a97643110fd3b3756f053af27</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.service_portal.resize_text.procurement.enable_rem_conversion</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_scope_delete display_value="">01d811cff3234572a416507de51518a9</sys_scope_delete>
+        <sys_update_name>sys_properties_1e87088a97643110fd3b3756f053af27</sys_update_name>
+        <sys_update_version display_value="sys_properties_1e87088a97643110fd3b3756f053af27">1e87088a97643110fd3b3756f053af2a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-10 11:08:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

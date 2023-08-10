@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Physical and Data Center Security Measur" section_id="89ff64c297283110fd3b3756f053af14" sys_domain="global" table="x_1105134_third_pa_inherent_risk_questionaire" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>review_phy_and_env_risks</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-10 13:33:42</sys_created_on>
+            <sys_id>14e1344697283110fd3b3756f053af50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Physical and Data Center Security Measur" display_value="Physical and Data Center Security Measur" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">89ff64c297283110fd3b3756f053af14</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-10 13:33:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>access_cards</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-10 13:33:42</sys_created_on>
+            <sys_id>18e1344697283110fd3b3756f053af50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Physical and Data Center Security Measur" display_value="Physical and Data Center Security Measur" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">89ff64c297283110fd3b3756f053af14</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-10 13:33:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>keypad_controls</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-10 13:33:42</sys_created_on>
+            <sys_id>1ce1344697283110fd3b3756f053af50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Physical and Data Center Security Measur" display_value="Physical and Data Center Security Measur" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">89ff64c297283110fd3b3756f053af14</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-10 13:33:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>security_guards</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-10 13:33:42</sys_created_on>
+            <sys_id>10e1344697283110fd3b3756f053af51</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Physical and Data Center Security Measur" display_value="Physical and Data Center Security Measur" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">89ff64c297283110fd3b3756f053af14</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-10 13:33:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_continuity</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-10 13:33:42</sys_created_on>
+            <sys_id>14e1344697283110fd3b3756f053af51</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Physical and Data Center Security Measur" display_value="Physical and Data Center Security Measur" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">89ff64c297283110fd3b3756f053af14</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-10 13:33:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>network_eq_phy_secured</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-10 13:33:42</sys_created_on>
+            <sys_id>18e1344697283110fd3b3756f053af51</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Physical and Data Center Security Measur" display_value="Physical and Data Center Security Measur" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">89ff64c297283110fd3b3756f053af14</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-10 13:33:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>data_center_providers</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-10 13:33:42</sys_created_on>
+            <sys_id>1ce1344697283110fd3b3756f053af51</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Physical and Data Center Security Measur" display_value="Physical and Data Center Security Measur" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">89ff64c297283110fd3b3756f053af14</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-10 13:33:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>visitor_logs</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-10 13:33:42</sys_created_on>
+            <sys_id>10e1344697283110fd3b3756f053af52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Physical and Data Center Security Measur" display_value="Physical and Data Center Security Measur" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">89ff64c297283110fd3b3756f053af14</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-10 13:33:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>visitor_logs_30_days</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-10 13:33:42</sys_created_on>
+            <sys_id>14e1344697283110fd3b3756f053af52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Physical and Data Center Security Measur" display_value="Physical and Data Center Security Measur" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">89ff64c297283110fd3b3756f053af14</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-10 13:33:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>policy_phy_req_office</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-10 13:33:42</sys_created_on>
+            <sys_id>18e1344697283110fd3b3756f053af52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Physical and Data Center Security Measur" display_value="Physical and Data Center Security Measur" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">89ff64c297283110fd3b3756f053af14</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-10 13:33:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-10 13:33:42</sys_created_on>
+            <sys_id>1ce1344697283110fd3b3756f053af52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Physical and Data Center Security Measur" display_value="Physical and Data Center Security Measur" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">89ff64c297283110fd3b3756f053af14</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-10 13:33:42</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>review_phy_and_env_risks_notes</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-10 13:33:42</sys_created_on>
+            <sys_id>10e1344697283110fd3b3756f053af53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Physical and Data Center Security Measur" display_value="Physical and Data Center Security Measur" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">89ff64c297283110fd3b3756f053af14</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-10 13:33:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>access_cards_notes</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-10 13:33:42</sys_created_on>
+            <sys_id>14e1344697283110fd3b3756f053af53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Physical and Data Center Security Measur" display_value="Physical and Data Center Security Measur" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">89ff64c297283110fd3b3756f053af14</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-10 13:33:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>keypad_controls_notes</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-10 13:33:42</sys_created_on>
+            <sys_id>18e1344697283110fd3b3756f053af53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Physical and Data Center Security Measur" display_value="Physical and Data Center Security Measur" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">89ff64c297283110fd3b3756f053af14</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-10 13:33:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>security_guards_notes</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-10 13:33:42</sys_created_on>
+            <sys_id>1ce1344697283110fd3b3756f053af53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Physical and Data Center Security Measur" display_value="Physical and Data Center Security Measur" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">89ff64c297283110fd3b3756f053af14</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-10 13:33:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_continuity_notes</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-10 13:33:42</sys_created_on>
+            <sys_id>10e1344697283110fd3b3756f053af54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Physical and Data Center Security Measur" display_value="Physical and Data Center Security Measur" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">89ff64c297283110fd3b3756f053af14</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-10 13:33:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>network_eq_phy_secured_notes</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-10 13:33:42</sys_created_on>
+            <sys_id>14e1344697283110fd3b3756f053af54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Physical and Data Center Security Measur" display_value="Physical and Data Center Security Measur" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">89ff64c297283110fd3b3756f053af14</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-10 13:33:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>data_center_providers_notes</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-10 13:33:42</sys_created_on>
+            <sys_id>18e1344697283110fd3b3756f053af54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Physical and Data Center Security Measur" display_value="Physical and Data Center Security Measur" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">89ff64c297283110fd3b3756f053af14</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-10 13:33:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>visitor_logs_notes</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-10 13:33:42</sys_created_on>
+            <sys_id>1ce1344697283110fd3b3756f053af54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Physical and Data Center Security Measur" display_value="Physical and Data Center Security Measur" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">89ff64c297283110fd3b3756f053af14</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-10 13:33:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>visitor_logs_30_days_notes</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-10 13:33:42</sys_created_on>
+            <sys_id>10e1344697283110fd3b3756f053af55</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Physical and Data Center Security Measur" display_value="Physical and Data Center Security Measur" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">89ff64c297283110fd3b3756f053af14</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-10 13:33:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>policy_phy_req_office_notes</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-10 13:33:42</sys_created_on>
+            <sys_id>14e1344697283110fd3b3756f053af55</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Physical and Data Center Security Measur" display_value="Physical and Data Center Security Measur" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">89ff64c297283110fd3b3756f053af14</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-10 13:33:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Physical and Data Center Security Measur</caption>
+            <header>false</header>
+            <name>x_1105134_third_pa_inherent_risk_questionaire</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-10 13:25:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>89ff64c297283110fd3b3756f053af14</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1105134_third_pa_inherent_risk_questionaire</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+            <sys_update_name>sys_ui_section_89ff64c297283110fd3b3756f053af14</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-10 13:25:17</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

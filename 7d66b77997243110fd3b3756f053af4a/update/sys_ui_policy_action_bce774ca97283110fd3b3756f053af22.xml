@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>info_security_apply_all_operations</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-10 14:00:10</sys_created_on>
+        <sys_id>bce774ca97283110fd3b3756f053af22</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>info_security_apply_all_operations</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_update_name>sys_ui_policy_action_bce774ca97283110fd3b3756f053af22</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-10 14:00:24</sys_updated_on>
+        <table>x_1105134_third_pa_inherent_risk_questionaire</table>
+        <ui_policy display_value="IRQ - Information Security Program additional questions">e847b88a97283110fd3b3756f053af9c</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="customer_data_comply" label="Do policies and procedures adhere to and comply with privacy laws and regulation" language="en" table="x_1105134_third_pa_inherent_risk_questionaire">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>customer_data_comply</element>
+            <help/>
+            <hint/>
+            <label>Do policies and procedures adhere to and comply with privacy laws and regulation</label>
+            <language>en</language>
+            <name>x_1105134_third_pa_inherent_risk_questionaire</name>
+            <plural>Do policies and procedures adhere to and comply with privacy laws and regulation</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-10 12:03:00</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Do policies and procedures adhere to and comply with privacy laws and regulations related to the security, concealment, and safeguard of customer data?</sys_name>
+            <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+            <sys_update_name>sys_documentation_x_1105134_third_pa_inherent_risk_questionaire_customer_data_comply_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-10 12:03:00</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

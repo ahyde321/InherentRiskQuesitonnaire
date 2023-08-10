@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="DELETE">
+        <active>true</active>
+        <description/>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image/>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog/>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-10 10:42:30</sys_created_on>
+        <sys_id>b8aacc4e97643110fd3b3756f053af01</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Procurement</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_update_name>sc_category_b8aacc4e97643110fd3b3756f053af01</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-10 10:42:30</sys_updated_on>
+        <title>Procurement</title>
+    </sc_category>
+    <sys_translated_text action="DELETE" query="documentkey=b8aacc4e97643110fd3b3756f053af01"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</application>
+        <file_path/>
+        <instance_id>278f33dedb4615d82f68c59705961964</instance_id>
+        <instance_name>dev136027</instance_name>
+        <name>sc_category_b8aacc4e97643110fd3b3756f053af01</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category"><sc_category action="INSERT_OR_UPDATE"><active>true</active><description/><entitlement_script/><header_icon/><homepage_image/><homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer><icon/><image/><location/><mobile_hide_description>false</mobile_hide_description><mobile_picture/><mobile_subcategory_render_type>list</mobile_subcategory_render_type><module/><order>0</order><parent/><roles/><sc_catalog/><sys_class_name>sc_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-10 10:42:30</sys_created_on><sys_id>b8aacc4e97643110fd3b3756f053af01</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Procurement</sys_name><sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package><sys_policy/><sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope><sys_update_name>sc_category_b8aacc4e97643110fd3b3756f053af01</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-10 10:42:30</sys_updated_on><title>Procurement</title></sc_category><sys_translated_text action="delete_multiple" query="documentkey=b8aacc4e97643110fd3b3756f053af01"/></record_update>]]></payload>
+        <payload_hash>-866576176</payload_hash>
+        <record_name>Procurement</record_name>
+        <reverted_from/>
+        <source>7d66b77997243110fd3b3756f053af4c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-10 10:42:31</sys_created_on>
+        <sys_id>6cba884e97643110fd3b3756f053af4e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189df0a72c30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-10 10:42:31</sys_updated_on>
+        <type>Category</type>
+        <update_guid>a4ba884efc6431107d86ecc6e3924e4e</update_guid>
+        <update_guid_history>a4ba884efc6431107d86ecc6e3924e4e:-866576176</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Procurement">354058c297a43110fd3b3756f053af6b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-10 11:06:53</sys_created_on>
+        <sys_db_object display_value="" name="sc_category">sc_category</sys_db_object>
+        <sys_id>40bedd7f33b54b72af08ba831e40be71</sys_id>
+        <sys_metadata>b8aacc4e97643110fd3b3756f053af01</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Procurement</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_scope_delete display_value="">01d811cff3234572a416507de51518a9</sys_scope_delete>
+        <sys_update_name>sc_category_b8aacc4e97643110fd3b3756f053af01</sys_update_name>
+        <sys_update_version display_value="sc_category_b8aacc4e97643110fd3b3756f053af01">6cba884e97643110fd3b3756f053af4e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-10 11:06:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

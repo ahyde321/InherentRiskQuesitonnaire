@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>GCS Services Index - Container 1</name>
+        <order>1</order>
+        <sp_page display_value="gcs_services_index">894d04ce97643110fd3b3756f053afd9</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-10 10:53:44</sys_created_on>
+        <sys_id>c14d480297a43110fd3b3756f053afd9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GCS Services Index - Container 1</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_update_name>sp_container_c14d480297a43110fd3b3756f053afd9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-10 10:53:44</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</application>
+        <file_path/>
+        <instance_id>278f33dedb4615d82f68c59705961964</instance_id>
+        <instance_name>dev136027</instance_name>
+        <name>sp_container_c14d480297a43110fd3b3756f053afd9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>GCS Services Index - Container 1</name><order>1</order><sp_page display_value="gcs_services_index">894d04ce97643110fd3b3756f053afd9</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-10 10:53:44</sys_created_on><sys_id>c14d480297a43110fd3b3756f053afd9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>GCS Services Index - Container 1</sys_name><sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package><sys_policy/><sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope><sys_update_name>sp_container_c14d480297a43110fd3b3756f053afd9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-10 10:53:44</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>1916813634</payload_hash>
+        <record_name>GCS Services Index - Container 1</record_name>
+        <reverted_from/>
+        <source>7d66b77997243110fd3b3756f053af4c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-10 10:53:44</sys_created_on>
+        <sys_id>cd4d480297a43110fd3b3756f053afda</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189df14b93a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-10 10:53:44</sys_updated_on>
+        <type>Container</type>
+        <update_guid>094d48027ca431108e597e7cb40501da</update_guid>
+        <update_guid_history>094d48027ca431108e597e7cb40501da:1916813634</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="GCS Services Index - Container 1">d9c0140697a43110fd3b3756f053af3f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-10 11:09:03</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>9c63ee2b5bd94790a215184f3986b390</sys_id>
+        <sys_metadata>c14d480297a43110fd3b3756f053afd9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GCS Services Index - Container 1</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_scope_delete display_value="">01d811cff3234572a416507de51518a9</sys_scope_delete>
+        <sys_update_name>sp_container_c14d480297a43110fd3b3756f053afd9</sys_update_name>
+        <sys_update_version display_value="sp_container_c14d480297a43110fd3b3756f053afd9">cd4d480297a43110fd3b3756f053afda</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-10 11:09:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
