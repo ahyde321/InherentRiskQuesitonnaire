@@ -112,6 +112,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2023-08-10 14:25:59</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-11 09:49:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f63889da97287110fd3b3756f053af40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1105134_third_pa_inherent_risk_questionaire" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">b1487ff997243110fd3b3756f053af36</sys_ui_form>
+            <sys_ui_section caption="Testing Section" display_value="Testing Section" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">b63849da97287110fd3b3756f053afe4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-11 09:49:50</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_1105134_third_pa_inherent_risk_questionaire</name>
             <roles/>

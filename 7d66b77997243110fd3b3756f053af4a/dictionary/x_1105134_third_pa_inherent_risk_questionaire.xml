@@ -303,6 +303,7 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Notes" max_length="4000" name="third_party_test_network_security_notes" type="journal"/>
+        <element attributes="edge_encryption_enabled=true" label="This is my name" max_length="40" name="this_is_my_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="Does your organization have a process in place to track and communicate vulnerab" mandatory="true" max_length="40" name="track_communicate_vuln_patches" type="string">
             <choice>
                 <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
