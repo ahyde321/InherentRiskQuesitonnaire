@@ -56,7 +56,7 @@
         <reference/>
         <reference_qual>undefined</reference_qual>
         <reference_qual_condition>undefined</reference_qual_condition>
-        <rich_text/>
+        <rich_text><![CDATA[<p><span style="font-size: 12pt;"><strong>Please select all Data Types applicable below.</strong></span></p>]]></rich_text>
         <roles_to_use_also_request_for/>
         <save_script><![CDATA[/** This script is executed before the Record is generated
 * `current`- GlideRecord produced by Record Producer
@@ -75,17 +75,17 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-11 07:45:03</sys_created_on>
         <sys_id>fc8be49e97a47110fd3b3756f053af90</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Please select all applicable Data Types below</sys_name>
         <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
         <sys_update_name>item_option_new_fc8be49e97a47110fd3b3756f053af90</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-08-11 07:46:14</sys_updated_on>
+        <sys_updated_on>2023-08-11 10:51:42</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>6</type>
+        <type>32</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>

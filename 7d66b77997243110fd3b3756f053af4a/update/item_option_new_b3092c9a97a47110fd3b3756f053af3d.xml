@@ -40,7 +40,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>formatter9</name>
-        <order>4100</order>
+        <order>11600</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
@@ -75,14 +75,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-11 07:33:39</sys_created_on>
         <sys_id>b3092c9a97a47110fd3b3756f053af3d</sys_id>
-        <sys_mod_count>22</sys_mod_count>
+        <sys_mod_count>91</sys_mod_count>
         <sys_name>formatter9</sys_name>
         <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
         <sys_update_name>item_option_new_b3092c9a97a47110fd3b3756f053af3d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-08-11 07:53:04</sys_updated_on>
+        <sys_updated_on>2023-08-11 11:47:51</sys_updated_on>
         <table/>
         <tooltip/>
         <type>20</type>
