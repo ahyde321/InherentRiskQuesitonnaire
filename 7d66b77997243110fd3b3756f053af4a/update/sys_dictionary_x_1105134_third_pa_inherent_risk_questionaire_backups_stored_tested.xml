@@ -8,7 +8,7 @@
         <choice>3</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Are backups stored and tested?</column_label>
+        <column_label>5.6. Are backups stored and tested?</column_label>
         <comments/>
         <create_roles/>
         <default_value>na</default_value>
@@ -47,13 +47,13 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-10 14:26:00</sys_created_on>
-        <sys_name>Are backups stored and tested?</sys_name>
+        <sys_name>5.6. Are backups stored and tested?</sys_name>
         <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
         <sys_update_name>sys_dictionary_x_1105134_third_pa_inherent_risk_questionaire_backups_stored_tested</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-08-10 14:26:03</sys_updated_on>
+        <sys_updated_on>2023-08-11 14:38:12</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

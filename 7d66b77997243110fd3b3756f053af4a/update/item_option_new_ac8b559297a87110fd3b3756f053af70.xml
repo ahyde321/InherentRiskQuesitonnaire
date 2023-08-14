@@ -19,7 +19,7 @@
         <dynamic_ref_qual/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field/>
+        <field>data_center_providers</field>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -36,7 +36,7 @@
         <macro/>
         <macroponent/>
         <mandatory>true</mandatory>
-        <map_to_field>false</map_to_field>
+        <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>does_your_organization_use_data_center_providers</name>
@@ -75,14 +75,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-11 11:15:32</sys_created_on>
         <sys_id>ac8b559297a87110fd3b3756f053af70</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Does your organization use data center providers? </sys_name>
         <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
         <sys_update_name>item_option_new_ac8b559297a87110fd3b3756f053af70</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-08-11 11:17:11</sys_updated_on>
+        <sys_updated_on>2023-08-11 14:47:23</sys_updated_on>
         <table/>
         <tooltip/>
         <type>3</type>

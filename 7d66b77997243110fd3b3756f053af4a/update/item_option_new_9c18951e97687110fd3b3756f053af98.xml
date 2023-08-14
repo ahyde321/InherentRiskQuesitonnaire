@@ -19,7 +19,7 @@
         <dynamic_ref_qual/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field/>
+        <field>customer_data_comply</field>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -36,7 +36,7 @@
         <macro/>
         <macroponent/>
         <mandatory>true</mandatory>
-        <map_to_field>false</map_to_field>
+        <map_to_field>true</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>do_policies_and_procedures_adhere_to_and_comply_with_privacy_laws_and_regulations_related_to_the_sec</name>
@@ -75,14 +75,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-11 10:59:34</sys_created_on>
         <sys_id>9c18951e97687110fd3b3756f053af98</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Do policies and procedures adhere to and comply with privacy laws and regulations related to the security, concealment, and safeguard of customer data? </sys_name>
         <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
         <sys_update_name>item_option_new_9c18951e97687110fd3b3756f053af98</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-08-11 10:59:37</sys_updated_on>
+        <sys_updated_on>2023-08-11 14:42:59</sys_updated_on>
         <table/>
         <tooltip/>
         <type>3</type>
