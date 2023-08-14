@@ -6,16 +6,16 @@
         <question display_value="Does your organization utilize visitor logs?">4dfc281297e47110fd3b3756f053afc4</question>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-08-11 07:51:14</sys_created_on>
+        <sys_created_on>2023-08-14 07:02:56</sys_created_on>
         <sys_id>191da81297e47110fd3b3756f053afc6</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Y</sys_name>
         <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
         <sys_update_name>question_choice_191da81297e47110fd3b3756f053afc6</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-08-11 07:51:14</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-14 08:10:49</sys_updated_on>
         <text>Y</text>
         <value>y</value>
     </question_choice>

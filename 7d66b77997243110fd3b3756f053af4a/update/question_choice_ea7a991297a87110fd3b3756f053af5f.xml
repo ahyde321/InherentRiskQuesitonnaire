@@ -6,16 +6,16 @@
         <question display_value="Do you have business continuity procedures in place if the office is inaccessible for any reason? ">f46a191297a87110fd3b3756f053afff</question>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-08-11 11:09:34</sys_created_on>
+        <sys_created_on>2023-08-14 07:03:30</sys_created_on>
         <sys_id>ea7a991297a87110fd3b3756f053af5f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>N</sys_name>
         <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
         <sys_update_name>question_choice_ea7a991297a87110fd3b3756f053af5f</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-08-11 11:09:34</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-14 08:10:50</sys_updated_on>
         <text>N</text>
         <value>n</value>
     </question_choice>

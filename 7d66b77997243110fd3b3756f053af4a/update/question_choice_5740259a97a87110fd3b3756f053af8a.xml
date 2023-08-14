@@ -6,16 +6,16 @@
         <question display_value="Are strict controls in place in order to access security logs?">3830a19a97a87110fd3b3756f053afc3</question>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-08-11 11:35:00</sys_created_on>
+        <sys_created_on>2023-08-14 07:02:54</sys_created_on>
         <sys_id>5740259a97a87110fd3b3756f053af8a</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Y</sys_name>
         <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
         <sys_update_name>question_choice_5740259a97a87110fd3b3756f053af8a</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-08-11 11:35:00</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-14 08:10:47</sys_updated_on>
         <text>Y</text>
         <value>y</value>
     </question_choice>
