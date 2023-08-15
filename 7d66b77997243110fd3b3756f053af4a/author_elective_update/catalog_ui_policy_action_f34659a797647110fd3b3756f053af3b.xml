@@ -51,7 +51,7 @@
         <update_guid_history>91fbd52ff46471108e47d77a9cad5c44:-659173838,59fbd52f2164711017132e74aceaa741:-1356769602</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="if_y_are_they_maintained_for_more_than_30_days_notes">2d2f952797a47110fd3b3756f053af54</sys_audit_delete>
+        <sys_audit_delete display_value="">2d2f952797a47110fd3b3756f053af54</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2023-08-15 08:42:22</sys_created_on>

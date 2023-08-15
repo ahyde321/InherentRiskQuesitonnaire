@@ -50,7 +50,7 @@
         <update_guid_history>609ac04e566431103e6d120043606320:1549967211,d7d5c40a0f643110991d2be1e563a52e:434010493</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="GCS Services">67605cc297a43110fd3b3756f053af2e</sys_audit_delete>
+        <sys_audit_delete display_value="">67605cc297a43110fd3b3756f053af2e</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-10 11:07:34</sys_created_on>

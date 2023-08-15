@@ -51,7 +51,7 @@
         <update_guid_history>38fd80425ba431101287d073ffffe960:248855771</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="GCS Services Catalog - Container 1">15c0140697a43110fd3b3756f053af1d</sys_audit_delete>
+        <sys_audit_delete display_value="">15c0140697a43110fd3b3756f053af1d</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-10 11:09:03</sys_created_on>
