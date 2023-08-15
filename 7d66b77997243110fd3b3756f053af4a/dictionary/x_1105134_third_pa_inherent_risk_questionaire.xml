@@ -42,6 +42,7 @@
         </element>
         <element attributes="edge_encryption_enabled=true" label="3.2. Notes" max_length="40" name="antivirus_required_notes_string" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Signature" mandatory="true" max_length="40" name="assessor_signature" type="string"/>
+        <element attributes="encode_utf8=false" label="Assigned To" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="5.6. Are backups stored and tested?" mandatory="true" max_length="40" name="backups_stored_tested" type="string">
             <choice>
                 <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
@@ -201,6 +202,22 @@
                 <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
             </choice>
         </element>
+        <element choice="3" default="1" label="Priority" max_length="40" name="priority" read_only="true" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="1 - Critical" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="2 - High" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="3 - Moderate" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="4 - Low" sequence="3" value="4"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="submitted" label="Procurement Process Indicator" max_length="40" name="procurement_process_indicator" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Submitted" sequence="0" value="submitted"/>
+                <element inactive_on_update="false" label="Reviewed" sequence="1" value="reviewed"/>
+                <element inactive_on_update="false" label="Triage scheduled" sequence="2" value="triage scheduled"/>
+                <element inactive_on_update="false" label="Due Diligence Sent" sequence="3" value="due diligence sent"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" label="2.1. Notes" max_length="40" name="review_phys_and_env_risks_notes_string" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="2.1. Does your organization regularly review and assess physical- and environmen" mandatory="true" max_length="40" name="review_phy_and_env_risks" type="string">
             <choice>
@@ -318,5 +335,8 @@
         </element>
         <element attributes="edge_encryption_enabled=true" label="2.8.1. Notes" max_length="40" name="visitor_logs_30_days_notes_string" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="2.8. Notes" max_length="40" name="visitor_logs_notes_string" type="string"/>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
     </element>
 </database>
