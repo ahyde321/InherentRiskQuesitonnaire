@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Inherent Risk Questionnaire">39c62cd697a47110fd3b3756f053af63</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-15 06:50:49</sys_created_on>
+        <sys_id>239549ab97e07110fd3b3756f053af44</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Can We Help You?.Inherent Risk Questionnaire</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_update_name>sc_cat_item_category_239549ab97e07110fd3b3756f053af44</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-15 07:07:21</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</application>
+        <file_path/>
+        <instance_id>278f33dedb4615d82f68c59705961964</instance_id>
+        <instance_name>dev136027</instance_name>
+        <name>sc_cat_item_category_239549ab97e07110fd3b3756f053af44</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="DELETE"><sc_cat_item display_value="Inherent Risk Questionnaire">39c62cd697a47110fd3b3756f053af63</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-15 06:50:49</sys_created_on><sys_id>239549ab97e07110fd3b3756f053af44</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Can We Help You?.Inherent Risk Questionnaire</sys_name><sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package><sys_policy/><sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope><sys_update_name>sc_cat_item_category_239549ab97e07110fd3b3756f053af44</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-08-15 07:07:21</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1670662043</payload_hash>
+        <record_name>Can We Help You?.Inherent Risk Questionnaire</record_name>
+        <reverted_from/>
+        <source>899019eb97247110fd3b3756f053af16</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-15 07:38:45</sys_created_on>
+        <sys_id>e59019eb97247110fd3b3756f053afe6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189f82202330000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-15 07:38:45</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>2d9019eb8b247110a91e4eb11c8727e5</update_guid>
+        <update_guid_history>2d9019eb8b247110a91e4eb11c8727e5:-1670662043,7d69c5efc2e07110ac051a1b1b9cd215:-1507430311</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Inherent Risk Questionnaire">3d9019eb97247110fd3b3756f053afea</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-15 07:38:45</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>402fe7dd82ca4409bde26f1a99629e11</sys_id>
+        <sys_metadata>239549ab97e07110fd3b3756f053af44</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Inherent Risk Questionnaire</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_scope_delete display_value="">01d811cff3234572a416507de51518a9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_239549ab97e07110fd3b3756f053af44</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_239549ab97e07110fd3b3756f053af44">e59019eb97247110fd3b3756f053afe6</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-15 07:38:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

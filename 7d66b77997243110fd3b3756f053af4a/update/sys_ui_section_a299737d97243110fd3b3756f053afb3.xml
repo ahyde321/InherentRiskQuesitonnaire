@@ -4,13 +4,13 @@
             <element>security_policies</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 13:13:13</sys_created_on>
-            <sys_id>103d2c0297283110fd3b3756f053affd</sys_id>
+            <sys_created_on>2023-08-14 13:21:18</sys_created_on>
+            <sys_id>756551df97643110fd3b3756f053afc5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Policies and Processes" display_value="Policies and Processes" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">a299737d97243110fd3b3756f053afb3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 13:13:13</sys_updated_on>
+            <sys_updated_on>2023-08-14 13:21:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>hr_policies</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 13:13:13</sys_created_on>
-            <sys_id>143d2c0297283110fd3b3756f053affd</sys_id>
+            <sys_created_on>2023-08-14 13:21:18</sys_created_on>
+            <sys_id>f56551df97643110fd3b3756f053afc5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Policies and Processes" display_value="Policies and Processes" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">a299737d97243110fd3b3756f053afb3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 13:13:13</sys_updated_on>
+            <sys_updated_on>2023-08-14 13:21:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>networked_services_policies</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 13:13:13</sys_created_on>
-            <sys_id>183d2c0297283110fd3b3756f053affd</sys_id>
+            <sys_created_on>2023-08-14 13:21:18</sys_created_on>
+            <sys_id>796551df97643110fd3b3756f053afc5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Policies and Processes" display_value="Policies and Processes" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">a299737d97243110fd3b3756f053afb3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 13:13:13</sys_updated_on>
+            <sys_updated_on>2023-08-14 13:21:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>company_services_policies</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 13:13:13</sys_created_on>
-            <sys_id>1c3d2c0297283110fd3b3756f053affd</sys_id>
+            <sys_created_on>2023-08-14 13:21:18</sys_created_on>
+            <sys_id>f96551df97643110fd3b3756f053afc5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Policies and Processes" display_value="Policies and Processes" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">a299737d97243110fd3b3756f053afb3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 13:13:13</sys_updated_on>
+            <sys_updated_on>2023-08-14 13:21:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>encryption_policies</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 13:13:13</sys_created_on>
-            <sys_id>103d2c0297283110fd3b3756f053affe</sys_id>
+            <sys_created_on>2023-08-14 13:21:18</sys_created_on>
+            <sys_id>7d6551df97643110fd3b3756f053afc5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Policies and Processes" display_value="Policies and Processes" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">a299737d97243110fd3b3756f053afb3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 13:13:13</sys_updated_on>
+            <sys_updated_on>2023-08-14 13:21:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>sensitive_data_policies</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 13:13:13</sys_created_on>
-            <sys_id>143d2c0297283110fd3b3756f053affe</sys_id>
+            <sys_created_on>2023-08-14 13:21:18</sys_created_on>
+            <sys_id>fd6551df97643110fd3b3756f053afc5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Policies and Processes" display_value="Policies and Processes" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">a299737d97243110fd3b3756f053afb3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 13:13:13</sys_updated_on>
+            <sys_updated_on>2023-08-14 13:21:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,13 @@
             <element>third_party_sensitive_data_policy</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 13:13:13</sys_created_on>
-            <sys_id>183d2c0297283110fd3b3756f053affe</sys_id>
+            <sys_created_on>2023-08-14 13:21:18</sys_created_on>
+            <sys_id>716551df97643110fd3b3756f053afc6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Policies and Processes" display_value="Policies and Processes" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">a299737d97243110fd3b3756f053afb3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 13:13:13</sys_updated_on>
+            <sys_updated_on>2023-08-14 13:21:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +102,13 @@
             <element>security_management_outsourced</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 13:13:13</sys_created_on>
-            <sys_id>1c3d2c0297283110fd3b3756f053affe</sys_id>
+            <sys_created_on>2023-08-14 13:21:18</sys_created_on>
+            <sys_id>f16551df97643110fd3b3756f053afc6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Policies and Processes" display_value="Policies and Processes" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">a299737d97243110fd3b3756f053afb3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 13:13:13</sys_updated_on>
+            <sys_updated_on>2023-08-14 13:21:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>customer_data_comply</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 13:13:13</sys_created_on>
-            <sys_id>103d2c0297283110fd3b3756f053afff</sys_id>
+            <sys_created_on>2023-08-14 13:21:18</sys_created_on>
+            <sys_id>756551df97643110fd3b3756f053afc6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Policies and Processes" display_value="Policies and Processes" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">a299737d97243110fd3b3756f053afb3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 13:13:13</sys_updated_on>
+            <sys_updated_on>2023-08-14 13:21:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -130,13 +130,13 @@
             <element>penalties_documented</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 13:13:13</sys_created_on>
-            <sys_id>143d2c0297283110fd3b3756f053afff</sys_id>
+            <sys_created_on>2023-08-14 13:21:18</sys_created_on>
+            <sys_id>f56551df97643110fd3b3756f053afc6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Policies and Processes" display_value="Policies and Processes" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">a299737d97243110fd3b3756f053afb3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 13:13:13</sys_updated_on>
+            <sys_updated_on>2023-08-14 13:21:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -144,153 +144,153 @@
             <element>.split</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 13:13:13</sys_created_on>
-            <sys_id>183d2c0297283110fd3b3756f053afff</sys_id>
+            <sys_created_on>2023-08-14 13:21:18</sys_created_on>
+            <sys_id>796551df97643110fd3b3756f053afc6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Policies and Processes" display_value="Policies and Processes" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">a299737d97243110fd3b3756f053afb3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 13:13:13</sys_updated_on>
+            <sys_updated_on>2023-08-14 13:21:18</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>security_policies_notes</element>
+            <element>security_policies_notes_string</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 13:13:13</sys_created_on>
-            <sys_id>1c3d2c0297283110fd3b3756f053afff</sys_id>
+            <sys_created_on>2023-08-14 13:21:18</sys_created_on>
+            <sys_id>f96551df97643110fd3b3756f053afc6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Policies and Processes" display_value="Policies and Processes" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">a299737d97243110fd3b3756f053afb3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 13:13:13</sys_updated_on>
+            <sys_updated_on>2023-08-14 13:21:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>hr_policies_notes</element>
+            <element>hr_policies_notes_string</element>
             <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 13:13:13</sys_created_on>
-            <sys_id>103d6c0297283110fd3b3756f053af00</sys_id>
+            <sys_created_on>2023-08-14 13:21:18</sys_created_on>
+            <sys_id>7d6551df97643110fd3b3756f053afc6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Policies and Processes" display_value="Policies and Processes" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">a299737d97243110fd3b3756f053afb3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 13:13:13</sys_updated_on>
+            <sys_updated_on>2023-08-14 13:21:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>networked_services_policies_notes</element>
+            <element>networked_services_notes_string</element>
             <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 13:13:13</sys_created_on>
-            <sys_id>143d6c0297283110fd3b3756f053af00</sys_id>
+            <sys_created_on>2023-08-14 13:21:18</sys_created_on>
+            <sys_id>fd6551df97643110fd3b3756f053afc6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Policies and Processes" display_value="Policies and Processes" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">a299737d97243110fd3b3756f053afb3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 13:13:13</sys_updated_on>
+            <sys_updated_on>2023-08-14 13:21:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>company_services_policies_notes</element>
+            <element>email_policies_notes_string</element>
             <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 13:13:13</sys_created_on>
-            <sys_id>183d6c0297283110fd3b3756f053af00</sys_id>
+            <sys_created_on>2023-08-14 13:21:18</sys_created_on>
+            <sys_id>716551df97643110fd3b3756f053afc7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Policies and Processes" display_value="Policies and Processes" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">a299737d97243110fd3b3756f053afb3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 13:13:13</sys_updated_on>
+            <sys_updated_on>2023-08-14 13:21:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>encryption_policies_notes</element>
+            <element>encryption_policies_notes_string</element>
             <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 13:13:13</sys_created_on>
-            <sys_id>1c3d6c0297283110fd3b3756f053af00</sys_id>
+            <sys_created_on>2023-08-14 13:21:18</sys_created_on>
+            <sys_id>f16551df97643110fd3b3756f053afc7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Policies and Processes" display_value="Policies and Processes" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">a299737d97243110fd3b3756f053afb3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 13:13:13</sys_updated_on>
+            <sys_updated_on>2023-08-14 13:21:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sensitive_data_policies_notes</element>
+            <element>sensitive_data_notes_string</element>
             <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 13:13:13</sys_created_on>
-            <sys_id>103d6c0297283110fd3b3756f053af01</sys_id>
+            <sys_created_on>2023-08-14 13:21:18</sys_created_on>
+            <sys_id>756551df97643110fd3b3756f053afc7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Policies and Processes" display_value="Policies and Processes" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">a299737d97243110fd3b3756f053afb3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 13:13:13</sys_updated_on>
+            <sys_updated_on>2023-08-14 13:21:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>third_party_sensitive_data_policy_notes</element>
+            <element>third_party_sensitive_data_notes_string</element>
             <position>17</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 13:13:13</sys_created_on>
-            <sys_id>143d6c0297283110fd3b3756f053af01</sys_id>
+            <sys_created_on>2023-08-14 13:21:18</sys_created_on>
+            <sys_id>f56551df97643110fd3b3756f053afc7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Policies and Processes" display_value="Policies and Processes" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">a299737d97243110fd3b3756f053afb3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 13:13:13</sys_updated_on>
+            <sys_updated_on>2023-08-14 13:21:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>security_management_outsourced_notes</element>
+            <element>security_management_outsourced_notes_string</element>
             <position>18</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 13:13:13</sys_created_on>
-            <sys_id>183d6c0297283110fd3b3756f053af01</sys_id>
+            <sys_created_on>2023-08-14 13:21:18</sys_created_on>
+            <sys_id>796551df97643110fd3b3756f053afc7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Policies and Processes" display_value="Policies and Processes" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">a299737d97243110fd3b3756f053afb3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 13:13:13</sys_updated_on>
+            <sys_updated_on>2023-08-14 13:21:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>customer_data_comply_notes</element>
+            <element>customer_data_comply_notes_string</element>
             <position>19</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 13:13:13</sys_created_on>
-            <sys_id>1c3d6c0297283110fd3b3756f053af01</sys_id>
+            <sys_created_on>2023-08-14 13:21:18</sys_created_on>
+            <sys_id>f96551df97643110fd3b3756f053afc7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Policies and Processes" display_value="Policies and Processes" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">a299737d97243110fd3b3756f053afb3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 13:13:13</sys_updated_on>
+            <sys_updated_on>2023-08-14 13:21:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>penalties_documented_notes</element>
+            <element>penalties_noncompliance_documented_notes_string</element>
             <position>20</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 13:13:13</sys_created_on>
-            <sys_id>103d6c0297283110fd3b3756f053af02</sys_id>
+            <sys_created_on>2023-08-14 13:21:18</sys_created_on>
+            <sys_id>7d6551df97643110fd3b3756f053afc7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Policies and Processes" display_value="Policies and Processes" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">a299737d97243110fd3b3756f053afb3</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 13:13:13</sys_updated_on>
+            <sys_updated_on>2023-08-14 13:21:18</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

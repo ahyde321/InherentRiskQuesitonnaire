@@ -4,13 +4,13 @@
             <element>organization_security_program</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 14:06:30</sys_created_on>
-            <sys_id>74697c0e97283110fd3b3756f053af43</sys_id>
+            <sys_created_on>2023-08-14 15:29:04</sys_created_on>
+            <sys_id>9da2b19b97e43110fd3b3756f053afb6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Information Security Measures" display_value="Information Security Measures" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">70557c0a97283110fd3b3756f053af4b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 14:06:30</sys_updated_on>
+            <sys_updated_on>2023-08-14 15:29:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>info_security_apply_all_operations</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 14:06:30</sys_created_on>
-            <sys_id>78697c0e97283110fd3b3756f053af43</sys_id>
+            <sys_created_on>2023-08-14 15:29:04</sys_created_on>
+            <sys_id>15a2b19b97e43110fd3b3756f053afb7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Information Security Measures" display_value="Information Security Measures" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">70557c0a97283110fd3b3756f053af4b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 14:06:30</sys_updated_on>
+            <sys_updated_on>2023-08-14 15:29:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>staff_certified_info_security</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 14:06:30</sys_created_on>
-            <sys_id>7c697c0e97283110fd3b3756f053af43</sys_id>
+            <sys_created_on>2023-08-14 15:29:04</sys_created_on>
+            <sys_id>95a2b19b97e43110fd3b3756f053afb7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Information Security Measures" display_value="Information Security Measures" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">70557c0a97283110fd3b3756f053af4b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 14:06:30</sys_updated_on>
+            <sys_updated_on>2023-08-14 15:29:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>admin_access_limited</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 14:06:30</sys_created_on>
-            <sys_id>70697c0e97283110fd3b3756f053af44</sys_id>
+            <sys_created_on>2023-08-14 15:29:04</sys_created_on>
+            <sys_id>19a2b19b97e43110fd3b3756f053afb7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Information Security Measures" display_value="Information Security Measures" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">70557c0a97283110fd3b3756f053af4b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 14:06:30</sys_updated_on>
+            <sys_updated_on>2023-08-14 15:29:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>strict_controls_security_logs</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 14:06:30</sys_created_on>
-            <sys_id>74697c0e97283110fd3b3756f053af44</sys_id>
+            <sys_created_on>2023-08-14 15:29:04</sys_created_on>
+            <sys_id>99a2b19b97e43110fd3b3756f053afb7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Information Security Measures" display_value="Information Security Measures" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">70557c0a97283110fd3b3756f053af4b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 14:06:30</sys_updated_on>
+            <sys_updated_on>2023-08-14 15:29:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,83 +74,83 @@
             <element>.split</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 14:06:30</sys_created_on>
-            <sys_id>78697c0e97283110fd3b3756f053af44</sys_id>
+            <sys_created_on>2023-08-14 15:29:04</sys_created_on>
+            <sys_id>1da2b19b97e43110fd3b3756f053afb7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Information Security Measures" display_value="Information Security Measures" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">70557c0a97283110fd3b3756f053af4b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 14:06:30</sys_updated_on>
+            <sys_updated_on>2023-08-14 15:29:04</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>organization_security_program_notes</element>
+            <element>organization_security_program_notes_string</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 14:06:30</sys_created_on>
-            <sys_id>7c697c0e97283110fd3b3756f053af44</sys_id>
+            <sys_created_on>2023-08-14 15:29:04</sys_created_on>
+            <sys_id>9da2b19b97e43110fd3b3756f053afb7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Information Security Measures" display_value="Information Security Measures" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">70557c0a97283110fd3b3756f053af4b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 14:06:30</sys_updated_on>
+            <sys_updated_on>2023-08-14 15:29:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>info_security_apply_all_operations_notes</element>
+            <element>info_security_apply_all_operations_notes_string</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 14:06:30</sys_created_on>
-            <sys_id>70697c0e97283110fd3b3756f053af45</sys_id>
+            <sys_created_on>2023-08-14 15:29:04</sys_created_on>
+            <sys_id>11a2b19b97e43110fd3b3756f053afb8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Information Security Measures" display_value="Information Security Measures" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">70557c0a97283110fd3b3756f053af4b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 14:06:30</sys_updated_on>
+            <sys_updated_on>2023-08-14 15:29:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>staff_certified_info_security_notes</element>
+            <element>staff_certified_info_security_notes_string</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 14:06:30</sys_created_on>
-            <sys_id>74697c0e97283110fd3b3756f053af45</sys_id>
+            <sys_created_on>2023-08-14 15:29:04</sys_created_on>
+            <sys_id>91a2b19b97e43110fd3b3756f053afb8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Information Security Measures" display_value="Information Security Measures" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">70557c0a97283110fd3b3756f053af4b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 14:06:30</sys_updated_on>
+            <sys_updated_on>2023-08-14 15:29:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>admin_access_limited_notes</element>
+            <element>admin_access_limited_notes_string</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 14:06:30</sys_created_on>
-            <sys_id>78697c0e97283110fd3b3756f053af45</sys_id>
+            <sys_created_on>2023-08-14 15:29:04</sys_created_on>
+            <sys_id>15a2b19b97e43110fd3b3756f053afb8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Information Security Measures" display_value="Information Security Measures" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">70557c0a97283110fd3b3756f053af4b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 14:06:30</sys_updated_on>
+            <sys_updated_on>2023-08-14 15:29:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>strict_controls_security_logs_notes</element>
+            <element>strict_controls_security_logs_notes_string</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-08-10 14:06:30</sys_created_on>
-            <sys_id>7c697c0e97283110fd3b3756f053af45</sys_id>
+            <sys_created_on>2023-08-14 15:29:04</sys_created_on>
+            <sys_id>95a2b19b97e43110fd3b3756f053afb8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Information Security Measures" display_value="Information Security Measures" name="x_1105134_third_pa_inherent_risk_questionaire" sys_domain="global" view="Default view">70557c0a97283110fd3b3756f053af4b</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-08-10 14:06:30</sys_updated_on>
+            <sys_updated_on>2023-08-14 15:29:04</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
