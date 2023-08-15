@@ -58,7 +58,7 @@
         <update_guid_history>a4ba884efc6431107d86ecc6e3924e4e:-866576176</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Procurement">354058c297a43110fd3b3756f053af6b</sys_audit_delete>
+        <sys_audit_delete display_value="">354058c297a43110fd3b3756f053af6b</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-10 11:06:53</sys_created_on>

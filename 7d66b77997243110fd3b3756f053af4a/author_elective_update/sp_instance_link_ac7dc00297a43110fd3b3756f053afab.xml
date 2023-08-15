@@ -72,7 +72,7 @@
         <update_guid_history>c2ad0c0293a43110f4c11b4c968d6ef1:1678029733,787d0c027ea43110c28941c780ee75c3:1111395466</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Services offered">5dc0140697a43110fd3b3756f053af35</sys_audit_delete>
+        <sys_audit_delete display_value="">5dc0140697a43110fd3b3756f053af35</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-10 11:09:03</sys_created_on>

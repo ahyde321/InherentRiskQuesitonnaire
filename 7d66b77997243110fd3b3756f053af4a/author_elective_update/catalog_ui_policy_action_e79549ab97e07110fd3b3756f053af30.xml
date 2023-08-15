@@ -51,7 +51,7 @@
         <update_guid_history>656985efb6e071108dcd675a90260aea:1529173434,ad6985effae07110512a2a8669925ae7:-1855894352</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="if_your_organization_has_an_information_security_program_does_it_apply_to_all_op">ed9019eb97247110fd3b3756f053afb0</sys_audit_delete>
+        <sys_audit_delete display_value="">ed9019eb97247110fd3b3756f053afb0</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2023-08-15 07:38:44</sys_created_on>

@@ -17,6 +17,7 @@
         <messages/>
         <name>IRQ Move the Submit </name>
         <order/>
+        <published_ref/>
         <script><![CDATA[function onLoad() {
    //Type appropriate comment here, and begin script below
    document.getElementById('submit_button').style.visibility = "hidden";

@@ -52,7 +52,7 @@
         <order>100</order>
         <push_message_only>false</push_message_only>
         <recipient_fields/>
-        <recipient_groups name="ThirdPartyProcurementSpecialist">9f5a1c9397a03110fd3b3756f053afda</recipient_groups>
+        <recipient_groups>9f5a1c9397a03110fd3b3756f053afda</recipient_groups>
         <recipient_users/>
         <reply_to/>
         <send_self>true</send_self>
