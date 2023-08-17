@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_script">
+    <sysauto_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <business_calendar/>
+        <condition/>
+        <conditional>false</conditional>
+        <entered_time>1970-01-01 10:00:00</entered_time>
+        <max_drift/>
+        <name>Check for stale IRQ</name>
+        <offset/>
+        <offset_type>0</offset_type>
+        <run_as display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2023-08-16 08:26:15</run_start>
+        <run_time>1970-01-01 10:00:00</run_time>
+        <run_type>daily</run_type>
+        <script><![CDATA[var gr = new GlideRecord('x_1105134_third_pa_inherent_risk_questionaire');
+gr.addEncodedQuery('sys_updated_onRELATIVELT@daysofweek@ago@2');
+gr.query();
+
+while (gr.next()){
+	gs.eventQueue("x_1105134_third_pa.IRQ_Stale", gr);
+}]]></script>
+        <sys_class_name>sysauto_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-16 08:35:36</sys_created_on>
+        <sys_id>4b05ea3f972cb9100aa2f317f053af8d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Check for stale IRQ</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_update_name>sysauto_script_4b05ea3f972cb9100aa2f317f053af8d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-16 08:35:36</sys_updated_on>
+        <time_zone>Europe/London</time_zone>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_script>
+</record_update>

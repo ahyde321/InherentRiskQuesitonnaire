@@ -41,7 +41,7 @@
         <update_guid_history>5ba63116592c711095e823f4df8e5293:-394649157</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Inherent Risk Questionnaire.Guest User">a4c6b116972c7110fd3b3756f053af51</sys_audit_delete>
+        <sys_audit_delete display_value="">a4c6b116972c7110fd3b3756f053af51</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-11 13:13:07</sys_created_on>

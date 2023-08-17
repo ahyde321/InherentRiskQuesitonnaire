@@ -41,7 +41,7 @@
         <update_guid_history>1dd7a05af3a4711055f4d9e457415a8d:-640279965</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Service Catalog.Inherent Risk Questionnaire">bde7e05a97a47110fd3b3756f053affd</sys_audit_delete>
+        <sys_audit_delete display_value="">bde7e05a97a47110fd3b3756f053affd</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-11 07:28:36</sys_created_on>
