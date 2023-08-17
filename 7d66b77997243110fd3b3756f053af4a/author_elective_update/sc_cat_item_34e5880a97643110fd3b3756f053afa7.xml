@@ -145,7 +145,7 @@
         <update_guid_history>17ba008ec1643110c5400156bc8b13e8:1898809674,17ba008ec1643110c5400156bc8b13e8:1898809674,4ff5cc0a5264311052c1c49ef4453f52:-465902497,0bf5cc0ae064311017cdc30a9df1995d:1078966436</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Inherent Risk Questionaire">1c601cc297a43110fd3b3756f053af1d</sys_audit_delete>
+        <sys_audit_delete display_value="">1c601cc297a43110fd3b3756f053af1d</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-10 11:07:20</sys_created_on>

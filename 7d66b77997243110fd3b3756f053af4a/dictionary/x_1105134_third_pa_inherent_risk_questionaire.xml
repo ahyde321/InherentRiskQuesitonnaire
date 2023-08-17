@@ -59,7 +59,7 @@
                 <element inactive_on_update="false" label="NA" sequence="2" value="na"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="1.4. Does your organization document and enforce policies for authorized use of " mandatory="true" max_length="40" name="company_services_policies" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="1.4. Does your organization document and enforce policies for authorized use of" mandatory="true" max_length="40" name="company_services_policies" type="string">
             <choice>
                 <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
                 <element inactive_on_update="false" label="N" sequence="1" value="n"/>
@@ -142,7 +142,7 @@
         </element>
         <element attributes="edge_encryption_enabled=true" label="2.3. Notes" max_length="40" name="keypad_controls_notes_string" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="1.3. Notes" max_length="40" name="networked_services_notes_string" type="string"/>
-        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="1.3. Does your organization document and enforce policies for authorized use of " mandatory="true" max_length="40" name="networked_services_policies" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="na" label="1.3. Does your organization document and enforce policies for authorized use of" mandatory="true" max_length="40" name="networked_services_policies" type="string">
             <choice>
                 <element inactive_on_update="false" label="Y" sequence="0" value="y"/>
                 <element inactive_on_update="false" label="N" sequence="1" value="n"/>

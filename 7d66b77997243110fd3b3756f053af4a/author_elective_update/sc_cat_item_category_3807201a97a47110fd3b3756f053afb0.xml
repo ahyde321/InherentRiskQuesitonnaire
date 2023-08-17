@@ -41,7 +41,7 @@
         <update_guid_history>3407201afba47110d100ff9437b6b6b4:-1831457079</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Security and Access.Inherent Risk Questionnaire">b037241a97a47110fd3b3756f053af60</sys_audit_delete>
+        <sys_audit_delete display_value="">b037241a97a47110fd3b3756f053af60</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-11 07:25:31</sys_created_on>

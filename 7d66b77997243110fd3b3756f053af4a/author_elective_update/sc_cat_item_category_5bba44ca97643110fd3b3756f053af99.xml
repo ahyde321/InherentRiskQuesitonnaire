@@ -41,7 +41,7 @@
         <update_guid_history>57ba008e9664311072f279ef40b9abe6:-1371211983</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Procurement.Inherent Risk Questionaire">1c601cc297a43110fd3b3756f053af06</sys_audit_delete>
+        <sys_audit_delete display_value="">1c601cc297a43110fd3b3756f053af06</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-10 11:07:20</sys_created_on>
