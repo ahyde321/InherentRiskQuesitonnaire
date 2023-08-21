@@ -42,7 +42,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>are_mobile_applications_that_access_process_and_transmit_scoped_systems_and_data_developed_by_your_o</name>
-        <order>10400</order>
+        <order>10600</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
@@ -77,14 +77,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-21 08:48:52</sys_created_on>
         <sys_id>e21950e597f4751035f0b8e6f053af6c</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Are mobile applications that access, process, and transmit Scoped Systems and Data developed by your organization?</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
         <sys_update_name>item_option_new_e21950e597f4751035f0b8e6f053af6c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-08-21 09:26:32</sys_updated_on>
+        <sys_updated_on>2023-08-21 11:19:11</sys_updated_on>
         <table/>
         <tooltip/>
         <type>3</type>

@@ -42,7 +42,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>the_contracts_with_third_party_service_providers_include_a_non_disclosure_agreement</name>
-        <order>11900</order>
+        <order>12500</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
@@ -77,14 +77,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-21 09:22:24</sys_created_on>
         <sys_id>8cc1ac619738751035f0b8e6f053afa0</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>The contracts with third party service providers include a non-disclosure agreement.</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
         <sys_update_name>item_option_new_8cc1ac619738751035f0b8e6f053afa0</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-08-21 09:26:15</sys_updated_on>
+        <sys_updated_on>2023-08-21 11:19:12</sys_updated_on>
         <table/>
         <tooltip/>
         <type>3</type>
