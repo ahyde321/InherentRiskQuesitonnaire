@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Due Diligence Form">299c2bf397247110fe6871571153affb</catalog_item>
+        <catalog_variable>IO:dc4abde097f4711035f0b8e6f053afac</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-21 09:10:22</sys_created_on>
+        <sys_id>9e1fd4ad97f4751035f0b8e6f053af7d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>the_change_management_procedure_requires_the_maintenance_of_change_control_logs</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_9e1fd4ad97f4751035f0b8e6f053af7d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-21 09:10:22</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Due Diligence Form UI Policy">560f586d97f4751035f0b8e6f053af91</ui_policy>
+        <variable>the_change_management_procedure_requires_the_maintenance_of_change_control_logs</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>
