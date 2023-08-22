@@ -41,7 +41,7 @@
         <update_guid_history>88b6d1a0c7f4f11013ddd23e3682a0d3:481283364,e46e2b771924711033fa9bf38ac57cc6:944592280</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Service Catalog.Due Diligence Form">00b6d1a097f4f110fe6871571153afe5</sys_audit_delete>
+        <sys_audit_delete display_value="">00b6d1a097f4f110fe6871571153afe5</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2023-08-18 10:39:19</sys_created_on>

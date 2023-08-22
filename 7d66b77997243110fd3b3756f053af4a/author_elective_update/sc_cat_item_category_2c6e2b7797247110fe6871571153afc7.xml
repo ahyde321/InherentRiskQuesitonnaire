@@ -41,7 +41,7 @@
         <update_guid_history>c4b6d1a071f4f110d09bf72d386acce9:574945014,646e2b77df24711053a3f0f2a3976acb:-1339718678</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Can We Help You?.Due Diligence Form">c0b6d1a097f4f110fe6871571153aff5</sys_audit_delete>
+        <sys_audit_delete display_value="">c0b6d1a097f4f110fe6871571153aff5</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2023-08-18 10:39:19</sys_created_on>

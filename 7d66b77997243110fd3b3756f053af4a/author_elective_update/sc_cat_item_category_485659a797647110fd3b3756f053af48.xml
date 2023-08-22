@@ -41,7 +41,7 @@
         <update_guid_history>352f9527baa4711001a6f09046f8f990:-1670662043,ddfbd52f0e647110d7fd48df4a1c098c:-1507430311</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="Can We Help You?.Inherent Risk Questionnaire">bd2f952797a47110fd3b3756f053af94</sys_audit_delete>
+        <sys_audit_delete display_value="">bd2f952797a47110fd3b3756f053af94</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2023-08-15 08:42:23</sys_created_on>

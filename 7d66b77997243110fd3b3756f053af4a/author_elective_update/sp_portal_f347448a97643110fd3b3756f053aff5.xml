@@ -64,7 +64,7 @@
         <update_guid_history>e2bd4042cfa431105fce20500946503e:-209206115,e687088a2f64311080feea7289d8052f:486380343</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="User Consumption">85a0100697a43110fd3b3756f053aff3</sys_audit_delete>
+        <sys_audit_delete display_value="">85a0100697a43110fd3b3756f053aff3</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-08-10 11:08:29</sys_created_on>

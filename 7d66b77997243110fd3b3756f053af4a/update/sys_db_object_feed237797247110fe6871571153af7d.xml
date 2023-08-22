@@ -13,7 +13,7 @@
         <label>Due Diligence Form</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_1105134_third_pa_due_diligence_form</name>
-        <number_ref display_value="DDF">8fed237797247110fe6871571153af98</number_ref>
+        <number_ref display_value="">8fed237797247110fe6871571153af98</number_ref>
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>

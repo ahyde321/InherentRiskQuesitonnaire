@@ -73,7 +73,7 @@
         <update_guid_history>ad2f952706a4711033bd62e548c71618:431198776,252f952724a47110e692abcb9cb60e16:184842852</update_guid_history>
     </sys_update_version>
     <sys_metadata_delete action="INSERT_OR_UPDATE">
-        <sys_audit_delete display_value="IRQ Move the Submit ">42d32daf97a47110fd3b3756f053af7b</sys_audit_delete>
+        <sys_audit_delete display_value="">42d32daf97a47110fd3b3756f053af7b</sys_audit_delete>
         <sys_class_name>sys_metadata_delete</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2023-08-15 09:02:53</sys_created_on>
