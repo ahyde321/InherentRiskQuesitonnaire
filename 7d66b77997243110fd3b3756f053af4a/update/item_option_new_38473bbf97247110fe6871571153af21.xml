@@ -40,7 +40,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>type_of_legal_entity_and_state_of_incorporation</name>
-        <order>1600</order>
+        <order>1800</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
@@ -73,16 +73,16 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-08-16 14:25:33</sys_created_on>
+        <sys_created_on>2023-08-17 12:05:38</sys_created_on>
         <sys_id>38473bbf97247110fe6871571153af21</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Type of legal entity and state of incorporation</sys_name>
         <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
         <sys_update_name>item_option_new_38473bbf97247110fe6871571153af21</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-08-16 14:25:37</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-18 10:39:51</sys_updated_on>
         <table/>
         <tooltip/>
         <type>6</type>
