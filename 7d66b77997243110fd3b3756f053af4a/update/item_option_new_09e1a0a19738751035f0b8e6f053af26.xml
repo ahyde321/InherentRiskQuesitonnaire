@@ -41,13 +41,13 @@
         <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>are_passwords_required_to_be_encrypted_and_or_stored_in_a_location_or_format_that_does_not_compromis</name>
-        <order>11600</order>
+        <name>the_contracts_with_third_party_service_providers_include_a_confidentiality_agreement</name>
+        <order>12600</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Are passwords required to be encrypted and/or stored in a location or format that does not compromise the security of the data they protect?</question_text>
+        <question_text>The contracts with third party service providers include a confidentiality agreement.</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -75,14 +75,14 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-08-21 09:17:34</sys_created_on>
-        <sys_id>eca024219738751035f0b8e6f053af23</sys_id>
+        <sys_created_on>2023-08-21 09:22:59</sys_created_on>
+        <sys_id>09e1a0a19738751035f0b8e6f053af26</sys_id>
         <sys_mod_count>4</sys_mod_count>
-        <sys_name>Are passwords required to be encrypted and/or stored in a location or format that does not compromise the security of the data they protect?</sys_name>
+        <sys_name>The contracts with third party service providers include a confidentiality agreement.</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
-        <sys_update_name>item_option_new_eca024219738751035f0b8e6f053af23</sys_update_name>
+        <sys_update_name>item_option_new_09e1a0a19738751035f0b8e6f053af26</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2023-08-21 11:19:12</sys_updated_on>
         <table/>
@@ -103,22 +103,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=eca024219738751035f0b8e6f053af23"/>
-    <fx_price action="delete_multiple" query="id=eca024219738751035f0b8e6f053af23"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=09e1a0a19738751035f0b8e6f053af26"/>
+    <fx_price action="delete_multiple" query="id=09e1a0a19738751035f0b8e6f053af26"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="GBP">GBP</currency>
         <field>price_if_checked</field>
-        <id>eca024219738751035f0b8e6f053af23</id>
+        <id>09e1a0a19738751035f0b8e6f053af26</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-08-21 09:17:34</sys_created_on>
-        <sys_id>7bb0a4219738751035f0b8e6f053afb0</sys_id>
+        <sys_created_on>2023-08-21 09:22:59</sys_created_on>
+        <sys_id>5bf1e0a19738751035f0b8e6f053af90</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-08-21 09:17:34</sys_updated_on>
+        <sys_updated_on>2023-08-21 09:22:59</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -126,16 +126,16 @@
         <amount>0</amount>
         <currency display_value="GBP">GBP</currency>
         <field>rec_price_if_checked</field>
-        <id>eca024219738751035f0b8e6f053af23</id>
+        <id>09e1a0a19738751035f0b8e6f053af26</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-08-21 09:17:34</sys_created_on>
-        <sys_id>fbb0a4219738751035f0b8e6f053afaf</sys_id>
+        <sys_created_on>2023-08-21 09:22:59</sys_created_on>
+        <sys_id>dbf1e0a19738751035f0b8e6f053af8f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-08-21 09:17:34</sys_updated_on>
+        <sys_updated_on>2023-08-21 09:22:59</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
