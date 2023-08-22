@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Third Party Procurement">47c7fb3997243110fd3b3756f053af0b</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>New TestingTable Record</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1105134_third_pa_testingtable</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-21 12:37:47</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>457e852597743110fd3b3756f053af0b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New TestingTable Record</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_update_name>sys_app_module_457e852597743110fd3b3756f053af0b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-21 12:37:47</sys_updated_on>
+        <timeline_page/>
+        <title>New TestingTable Record</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</application>
+        <file_path/>
+        <instance_id>278f33dedb4615d82f68c59705961964</instance_id>
+        <instance_name>dev136027</instance_name>
+        <name>sys_app_module_457e852597743110fd3b3756f053af0b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Third Party Procurement">47c7fb3997243110fd3b3756f053af0b</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>NEW</link_type><map_page/><mobile_title>New TestingTable Record</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1105134_third_pa_testingtable</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-21 12:37:47</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>457e852597743110fd3b3756f053af0b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New TestingTable Record</sys_name><sys_overrides/><sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package><sys_policy/><sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope><sys_update_name>sys_app_module_457e852597743110fd3b3756f053af0b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-21 12:37:47</sys_updated_on><timeline_page/><title>New TestingTable Record</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>442553881</payload_hash>
+        <record_name>New TestingTable Record</record_name>
+        <reverted_from/>
+        <source>41a5cd4697683110fd3b3756f053af36</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-21 12:37:47</sys_created_on>
+        <sys_id>209e4de197743110fd3b3756f053af01</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a1819f0ad0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-21 12:37:47</sys_updated_on>
+        <type>Module</type>
+        <update_guid>689e4de11b7431103f6e75f76fcfb400</update_guid>
+        <update_guid_history>689e4de11b7431103f6e75f76fcfb400:442553881</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="New TestingTable Record">91ee8efd97343110fd3b3756f053af63</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-22 11:57:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>2ca08ccf5d5e4268b40a1276f7b40c40</sys_id>
+        <sys_metadata>457e852597743110fd3b3756f053af0b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New TestingTable Record</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_scope_delete display_value="">01d811cff3234572a416507de51518a9</sys_scope_delete>
+        <sys_update_name>sys_app_module_457e852597743110fd3b3756f053af0b</sys_update_name>
+        <sys_update_version display_value="sys_app_module_457e852597743110fd3b3756f053af0b">209e4de197743110fd3b3756f053af01</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-22 11:57:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

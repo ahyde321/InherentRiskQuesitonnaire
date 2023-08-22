@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="f8f1992997743110fd3b3756f053af43" label="TestingTableOne" max_length="40" name="x_1105134_third_pa_testingtableone" type="collection">
-        <element default="Yes" label="Value" max_length="40" name="value" type="string"/>
-    </element>
-</database>
