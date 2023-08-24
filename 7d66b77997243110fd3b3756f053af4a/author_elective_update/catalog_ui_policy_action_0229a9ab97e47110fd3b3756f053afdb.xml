@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Inherent Risk Questionnaire">39c62cd697a47110fd3b3756f053af63</catalog_item>
+        <catalog_variable>IO:9b3d205297e47110fd3b3756f053af4c</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-15 09:26:06</sys_created_on>
+        <sys_id>0229a9ab97e47110fd3b3756f053afdb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>if_y_are_they_maintained_for_more_than_30_days</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_0229a9ab97e47110fd3b3756f053afdb</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-15 10:14:52</sys_updated_on>
+        <table/>
+        <ui_policy display_value=" IRQ A Catalog UI Policy to allow for conditional Visitor Logs question">0629a9ab97e47110fd3b3756f053afd7</ui_policy>
+        <variable>if_y_are_they_maintained_for_more_than_30_days</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</application>
+        <file_path/>
+        <instance_id>19684cbfdb61ad1c68c2c59705961961</instance_id>
+        <instance_name>dev166296</instance_name>
+        <name>catalog_ui_policy_action_0229a9ab97e47110fd3b3756f053afdb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Inherent Risk Questionnaire">39c62cd697a47110fd3b3756f053af63</catalog_item>
+        <catalog_variable>IO:9b3d205297e47110fd3b3756f053af4c</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>true</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-15 09:26:06</sys_created_on>
+        <sys_id>0229a9ab97e47110fd3b3756f053afdb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>if_y_are_they_maintained_for_more_than_30_days</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_0229a9ab97e47110fd3b3756f053afdb</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-15 10:14:52</sys_updated_on>
+        <table/>
+        <ui_policy display_value=" IRQ A Catalog UI Policy to allow for conditional Visitor Logs question">0629a9ab97e47110fd3b3756f053afd7</ui_policy>
+        <variable>if_y_are_they_maintained_for_more_than_30_days</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>]]></payload>
+        <payload_hash>1100750058</payload_hash>
+        <record_name>if_y_are_they_maintained_for_more_than_30_days</record_name>
+        <reverted_from/>
+        <source>95e354664730311090561098c26d43ba</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-24 10:55:40</sys_created_on>
+        <sys_id>0ef3dc664730311090561098c26d439b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a272f87bb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-24 10:55:40</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>caf3dc66cb30311086e7c9a46876209b</update_guid>
+        <update_guid_history>caf3dc66cb30311086e7c9a46876209b:1100750058</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="if_y_are_they_maintained_for_more_than_30_days">c9899cae4730311090561098c26d4308</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-24 11:19:55</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>0db94fcb1429467a843ae4adc14289a1</sys_id>
+        <sys_metadata>0229a9ab97e47110fd3b3756f053afdb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>if_y_are_they_maintained_for_more_than_30_days</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_scope_delete display_value="">01d811cff3234572a416507de51518a9</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_0229a9ab97e47110fd3b3756f053afdb</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_0229a9ab97e47110fd3b3756f053afdb">0ef3dc664730311090561098c26d439b</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-24 11:19:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

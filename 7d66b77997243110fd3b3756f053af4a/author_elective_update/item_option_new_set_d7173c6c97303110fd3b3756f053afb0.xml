@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="DELETE">
+        <create_roles/>
+        <description/>
+        <display_title>true</display_title>
+        <internal_name>web_application_firewall_inspect_all_traffic</internal_name>
+        <layout>normal</layout>
+        <name/>
+        <order>100</order>
+        <read_roles/>
+        <set_attributes/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-18 08:21:54</sys_created_on>
+        <sys_id>d7173c6c97303110fd3b3756f053afb0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Web Application Firewall Inspect All Traffic</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_update_name>item_option_new_set_d7173c6c97303110fd3b3756f053afb0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-18 08:21:54</sys_updated_on>
+        <title>Web Application Firewall Inspect All Traffic</title>
+        <type>one_to_one</type>
+        <write_roles/>
+    </item_option_new_set>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</application>
+        <file_path/>
+        <instance_id>19684cbfdb61ad1c68c2c59705961961</instance_id>
+        <instance_name>dev166296</instance_name>
+        <name>item_option_new_set_d7173c6c97303110fd3b3756f053afb0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="INSERT_OR_UPDATE">
+        <create_roles/>
+        <description/>
+        <display_title>true</display_title>
+        <internal_name>web_application_firewall_inspect_all_traffic</internal_name>
+        <layout>normal</layout>
+        <name/>
+        <order>100</order>
+        <read_roles/>
+        <set_attributes/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-18 08:21:54</sys_created_on>
+        <sys_id>d7173c6c97303110fd3b3756f053afb0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Web Application Firewall Inspect All Traffic</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_update_name>item_option_new_set_d7173c6c97303110fd3b3756f053afb0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-18 08:21:54</sys_updated_on>
+        <title>Web Application Firewall Inspect All Traffic</title>
+        <type>one_to_one</type>
+        <write_roles/>
+    </item_option_new_set>
+</record_update>]]></payload>
+        <payload_hash>852821877</payload_hash>
+        <record_name>Web Application Firewall Inspect All Traffic</record_name>
+        <reverted_from/>
+        <source>95e354664730311090561098c26d43ba</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-24 10:55:54</sys_created_on>
+        <sys_id>5d0414a64730311090561098c26d43a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a272fbcfe0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-24 10:55:54</sys_updated_on>
+        <type>Variable Set</type>
+        <update_guid>1d0414a6a1303110b6359a9bc95520a9</update_guid>
+        <update_guid_history>1d0414a6a1303110b6359a9bc95520a9:852821877</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Web Application Firewall Inspect All Traffic">7e05d42a4730311090561098c26d43b4</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-24 11:00:22</sys_created_on>
+        <sys_db_object display_value="" name="item_option_new_set">item_option_new_set</sys_db_object>
+        <sys_id>1fd4d2db19c241f49d28d69c12c833f9</sys_id>
+        <sys_metadata>d7173c6c97303110fd3b3756f053afb0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Web Application Firewall Inspect All Traffic</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_scope_delete display_value="">01d811cff3234572a416507de51518a9</sys_scope_delete>
+        <sys_update_name>item_option_new_set_d7173c6c97303110fd3b3756f053afb0</sys_update_name>
+        <sys_update_version display_value="item_option_new_set_d7173c6c97303110fd3b3756f053afb0">5d0414a64730311090561098c26d43a9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-24 11:00:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

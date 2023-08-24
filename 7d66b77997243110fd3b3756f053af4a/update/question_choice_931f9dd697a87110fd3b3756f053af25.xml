@@ -6,16 +6,16 @@
         <question display_value="Does your organization have an information security program in place? (please provide a link in the Notes column to all relevant public facing security and privacy policies) ">effed9d697a87110fd3b3756f053afbb</question>
         <sys_class_name>question_choice</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2023-08-15 09:26:03</sys_created_on>
+        <sys_created_on>2023-08-24 11:03:53</sys_created_on>
         <sys_id>931f9dd697a87110fd3b3756f053af25</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>NA</sys_name>
         <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
         <sys_policy/>
         <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
         <sys_update_name>question_choice_931f9dd697a87110fd3b3756f053af25</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-08-15 10:14:56</sys_updated_on>
+        <sys_updated_on>2023-08-24 11:19:57</sys_updated_on>
         <text>NA</text>
         <value>na</value>
     </question_choice>
