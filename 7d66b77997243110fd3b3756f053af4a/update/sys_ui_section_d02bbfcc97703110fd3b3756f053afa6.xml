@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Task Details" section_id="d02bbfcc97703110fd3b3756f053afa6" sys_domain="global" table="x_1105134_third_pa_inherent_risk_questionnaire_task" version="3" view="Procurement">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-17 10:28:33</sys_created_on>
+            <sys_id>64aa08dc97b03110fd3b3756f053af60</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Task Details" display_value="Task Details" name="x_1105134_third_pa_inherent_risk_questionnaire_task" sys_domain="global" view="be02caa797687110fd3b3756f053afdf">d02bbfcc97703110fd3b3756f053afa6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-17 10:28:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-17 10:28:33</sys_created_on>
+            <sys_id>e8aa08dc97b03110fd3b3756f053af60</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Task Details" display_value="Task Details" name="x_1105134_third_pa_inherent_risk_questionnaire_task" sys_domain="global" view="be02caa797687110fd3b3756f053afdf">d02bbfcc97703110fd3b3756f053afa6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-17 10:28:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-17 10:28:33</sys_created_on>
+            <sys_id>6caa08dc97b03110fd3b3756f053af60</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Task Details" display_value="Task Details" name="x_1105134_third_pa_inherent_risk_questionnaire_task" sys_domain="global" view="be02caa797687110fd3b3756f053afdf">d02bbfcc97703110fd3b3756f053afa6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-17 10:28:33</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_on</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-17 10:28:33</sys_created_on>
+            <sys_id>ecaa08dc97b03110fd3b3756f053af60</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Task Details" display_value="Task Details" name="x_1105134_third_pa_inherent_risk_questionnaire_task" sys_domain="global" view="be02caa797687110fd3b3756f053afdf">d02bbfcc97703110fd3b3756f053afa6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-17 10:28:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>procurement_process_indicator</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-17 10:28:33</sys_created_on>
+            <sys_id>60aa08dc97b03110fd3b3756f053af61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Task Details" display_value="Task Details" name="x_1105134_third_pa_inherent_risk_questionnaire_task" sys_domain="global" view="be02caa797687110fd3b3756f053afdf">d02bbfcc97703110fd3b3756f053afa6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-17 10:28:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-17 10:28:33</sys_created_on>
+            <sys_id>e0aa08dc97b03110fd3b3756f053af61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Task Details" display_value="Task Details" name="x_1105134_third_pa_inherent_risk_questionnaire_task" sys_domain="global" view="be02caa797687110fd3b3756f053afdf">d02bbfcc97703110fd3b3756f053afa6</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-17 10:28:33</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Task Details</caption>
+            <header>false</header>
+            <name>x_1105134_third_pa_inherent_risk_questionnaire_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-17 09:20:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d02bbfcc97703110fd3b3756f053afa6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1105134_third_pa_inherent_risk_questionnaire_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+            <sys_update_name>sys_ui_section_d02bbfcc97703110fd3b3756f053afa6</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-17 09:20:49</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Procurement" name="Procurement">be02caa797687110fd3b3756f053afdf</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

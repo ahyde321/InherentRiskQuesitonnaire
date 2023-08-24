@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Third Party Procurement</name>
+        <order/>
+        <roles>x_1105134_third_pa.business-sponsor,x_1105134_third_pa.procurement-specialist,x_1105134_third_pa.third-party-manager,x_1105134_third_pa.procurement-manager</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-21 12:53:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7e225d2997743110fd3b3756f053af83</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Third Party Procurement</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_update_name>sys_ui_application_7e225d2997743110fd3b3756f053af83</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-21 12:53:30</sys_updated_on>
+    </sys_ui_application>
+</record_update>

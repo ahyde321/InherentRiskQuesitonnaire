@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d0747b0897703110fd3b3756f053af9b" extends="task" label="Inherent Risk Questionnaire Task" max_length="40" name="x_1105134_third_pa_inherent_risk_questionnaire_task" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="3" default="submitted" label="Procurement Process Indicator" max_length="40" name="procurement_process_indicator" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Submitted" sequence="0" value="submitted"/>
+                <element inactive_on_update="false" label="Reviewed" sequence="1" value="reviewed"/>
+                <element inactive_on_update="false" label="Triage Scheduled" sequence="2" value="triage scheduled"/>
+                <element inactive_on_update="false" label="Due Diligence Sent" sequence="3" value="due diligence sent"/>
+            </choice>
+        </element>
+        <element label="Question 1." max_length="255" name="question1" read_only="true" type="radio"/>
+    </element>
+</database>

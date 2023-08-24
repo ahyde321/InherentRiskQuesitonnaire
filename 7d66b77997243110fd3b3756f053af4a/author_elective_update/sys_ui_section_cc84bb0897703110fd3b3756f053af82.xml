@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="cc84bb0897703110fd3b3756f053af82" sys_domain="global" table="x_1105134_third_pa_inherent_risk_questionnaire_task" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-17 09:09:42</sys_created_on>
+            <sys_id>1d98f34c97703110fd3b3756f053afaa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1105134_third_pa_inherent_risk_questionnaire_task" sys_domain="global" view="Default view">cc84bb0897703110fd3b3756f053af82</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-17 09:09:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-17 09:09:42</sys_created_on>
+            <sys_id>9198f34c97703110fd3b3756f053afab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1105134_third_pa_inherent_risk_questionnaire_task" sys_domain="global" view="Default view">cc84bb0897703110fd3b3756f053af82</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-17 09:09:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-17 09:09:42</sys_created_on>
+            <sys_id>1598f34c97703110fd3b3756f053afab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1105134_third_pa_inherent_risk_questionnaire_task" sys_domain="global" view="Default view">cc84bb0897703110fd3b3756f053af82</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-17 09:09:42</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-17 09:09:42</sys_created_on>
+            <sys_id>9598f34c97703110fd3b3756f053afab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1105134_third_pa_inherent_risk_questionnaire_task" sys_domain="global" view="Default view">cc84bb0897703110fd3b3756f053af82</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-17 09:09:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-17 09:09:42</sys_created_on>
+            <sys_id>1998f34c97703110fd3b3756f053afab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1105134_third_pa_inherent_risk_questionnaire_task" sys_domain="global" view="Default view">cc84bb0897703110fd3b3756f053af82</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-17 09:09:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_1105134_third_pa_inherent_risk_questionnaire_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-17 08:51:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc84bb0897703110fd3b3756f053af82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1105134_third_pa_inherent_risk_questionnaire_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+            <sys_update_name>sys_ui_section_cc84bb0897703110fd3b3756f053af82</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-17 08:51:51</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</application>
+        <file_path/>
+        <instance_id>278f33dedb4615d82f68c59705961964</instance_id>
+        <instance_name>dev136027</instance_name>
+        <name>sys_ui_section_cc84bb0897703110fd3b3756f053af82</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="cc84bb0897703110fd3b3756f053af82" sys_domain="global" table="x_1105134_third_pa_inherent_risk_questionnaire_task" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-17 09:09:42</sys_created_on><sys_id>1d98f34c97703110fd3b3756f053afaa</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1105134_third_pa_inherent_risk_questionnaire_task" sys_domain="global" view="Default view">cc84bb0897703110fd3b3756f053af82</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-17 09:09:42</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assigned_to</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-17 09:09:42</sys_created_on><sys_id>9198f34c97703110fd3b3756f053afab</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1105134_third_pa_inherent_risk_questionnaire_task" sys_domain="global" view="Default view">cc84bb0897703110fd3b3756f053af82</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-17 09:09:42</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-17 09:09:42</sys_created_on><sys_id>1598f34c97703110fd3b3756f053afab</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1105134_third_pa_inherent_risk_questionnaire_task" sys_domain="global" view="Default view">cc84bb0897703110fd3b3756f053af82</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-17 09:09:42</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>priority</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-17 09:09:42</sys_created_on><sys_id>9598f34c97703110fd3b3756f053afab</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1105134_third_pa_inherent_risk_questionnaire_task" sys_domain="global" view="Default view">cc84bb0897703110fd3b3756f053af82</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-17 09:09:42</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>state</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-17 09:09:42</sys_created_on><sys_id>1998f34c97703110fd3b3756f053afab</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_1105134_third_pa_inherent_risk_questionnaire_task" sys_domain="global" view="Default view">cc84bb0897703110fd3b3756f053af82</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-17 09:09:42</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_1105134_third_pa_inherent_risk_questionnaire_task</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-17 08:51:51</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cc84bb0897703110fd3b3756f053af82</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1105134_third_pa_inherent_risk_questionnaire_task</sys_name><sys_overrides/><sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package><sys_policy/><sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope><sys_update_name>sys_ui_section_cc84bb0897703110fd3b3756f053af82</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-08-17 08:51:51</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-360290847</payload_hash>
+        <record_name>Inherent Risk Questionnaire Task</record_name>
+        <reverted_from/>
+        <source>41a5cd4697683110fd3b3756f053af36</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-17 09:09:42</sys_created_on>
+        <sys_id>5998f34c97703110fd3b3756f053afad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a02c1fde00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-17 09:09:42</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>5198f34ced70311014d10a7a348a6ead</update_guid>
+        <update_guid_history>5198f34ced70311014d10a7a348a6ead:-360290847,0e45bb48cc703110f4ca78a14ccb23f8:-1396340019,4e45bb48e2703110412cb3dc1c2696f2:466930963</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-17 09:17:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>06db4794e9df4850804aa76c660d9440</sys_id>
+        <sys_metadata>cc84bb0897703110fd3b3756f053af82</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1105134_third_pa_inherent_risk_questionnaire_task</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_parent display_value="Inherent Risk Questionnaire Task">d0747b0897703110fd3b3756f053af9b</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_scope_delete display_value="">01d811cff3234572a416507de51518a9</sys_scope_delete>
+        <sys_update_name>sys_ui_section_cc84bb0897703110fd3b3756f053af82</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_cc84bb0897703110fd3b3756f053af82">5998f34c97703110fd3b3756f053afad</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-17 09:17:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

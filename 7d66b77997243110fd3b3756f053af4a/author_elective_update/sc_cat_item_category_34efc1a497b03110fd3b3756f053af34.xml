@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Inherent Risk Task">dc2a3f8c97703110fd3b3756f053afcb</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-18 10:09:37</sys_created_on>
+        <sys_id>34efc1a497b03110fd3b3756f053af34</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Can We Help You?.Inherent Risk Task</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_update_name>sc_cat_item_category_34efc1a497b03110fd3b3756f053af34</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-18 10:14:39</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</application>
+        <file_path/>
+        <instance_id>278f33dedb4615d82f68c59705961964</instance_id>
+        <instance_name>dev136027</instance_name>
+        <name>sc_cat_item_category_34efc1a497b03110fd3b3756f053af34</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="DELETE"><sc_cat_item display_value="Inherent Risk Task">dc2a3f8c97703110fd3b3756f053afcb</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-08-18 10:09:37</sys_created_on><sys_id>34efc1a497b03110fd3b3756f053af34</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Can We Help You?.Inherent Risk Task</sys_name><sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package><sys_policy/><sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope><sys_update_name>sc_cat_item_category_34efc1a497b03110fd3b3756f053af34</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-08-18 10:14:39</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1445141683</payload_hash>
+        <record_name>Can We Help You?.Inherent Risk Task</record_name>
+        <reverted_from/>
+        <source>2181dde497b03110fd3b3756f053af8d</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-18 10:16:47</sys_created_on>
+        <sys_id>b181112897b03110fd3b3756f053af4b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a0825c2a40000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-18 10:16:47</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>f5811128d5b03110ed61467567a31d4a</update_guid>
+        <update_guid_history>f5811128d5b03110ed61467567a31d4a:1445141683,aa0195e48eb031107c470d7c8e318873:-469522009</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Inherent Risk Task">7181112897b03110fd3b3756f053af4f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-08-18 10:16:47</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>ab359b79ef6740d0be97cc1c55964d41</sys_id>
+        <sys_metadata>34efc1a497b03110fd3b3756f053af34</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Inherent Risk Task</sys_name>
+        <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+        <sys_scope_delete display_value="">01d811cff3234572a416507de51518a9</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_34efc1a497b03110fd3b3756f053af34</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_34efc1a497b03110fd3b3756f053af34">b181112897b03110fd3b3756f053af4b</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-08-18 10:16:47</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

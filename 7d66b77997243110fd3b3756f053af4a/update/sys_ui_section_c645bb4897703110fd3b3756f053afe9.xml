@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Question Section 1" section_id="c645bb4897703110fd3b3756f053afe9" sys_domain="global" table="x_1105134_third_pa_inherent_risk_questionnaire_task" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>question1</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-17 09:23:32</sys_created_on>
+            <sys_id>04cbfb0097b03110fd3b3756f053af26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Question Section 1" display_value="Question Section 1" name="x_1105134_third_pa_inherent_risk_questionnaire_task" sys_domain="global" view="Default view">c645bb4897703110fd3b3756f053afe9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-17 09:23:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-17 09:23:32</sys_created_on>
+            <sys_id>84cbfb0097b03110fd3b3756f053af26</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Question Section 1" display_value="Question Section 1" name="x_1105134_third_pa_inherent_risk_questionnaire_task" sys_domain="global" view="Default view">c645bb4897703110fd3b3756f053afe9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-17 09:23:32</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Question Section 1</caption>
+            <header>false</header>
+            <name>x_1105134_third_pa_inherent_risk_questionnaire_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-17 08:55:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c645bb4897703110fd3b3756f053afe9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1105134_third_pa_inherent_risk_questionnaire_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Third Party Procurement" source="x_1105134_third_pa">7d66b77997243110fd3b3756f053af4a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Third Party Procurement">7d66b77997243110fd3b3756f053af4a</sys_scope>
+            <sys_update_name>sys_ui_section_c645bb4897703110fd3b3756f053afe9</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-17 08:55:16</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
